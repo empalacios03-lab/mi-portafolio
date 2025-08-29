@@ -10,3 +10,15 @@ body {
     background: var(--color-fondo);
     color: var(--color-texto);
   }
+header {
+    background: var(--color-principal);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #ddd;
+  }
