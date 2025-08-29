@@ -22,3 +22,26 @@ footer {
     padding: 1rem;
     background: #ddd;
   }
+section {
+    background: white;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 5px;
+  }
+ul {
+    padding-left: 20px;
+  }
+  
+a {
+    color: var(--color-principal);
+    text-decoration: none;
+  }
+a:hover {
+    text-decoration: underline;
+  }
+  
+input[type="text"] {
+    padding: 0.5rem;
+    width: 100%;
+    max-width: 300px;
+  }
